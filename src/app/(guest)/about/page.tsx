@@ -1,0 +1,1 @@
+export { AboutPage as default } from '@/features/guest/pages/about-page';

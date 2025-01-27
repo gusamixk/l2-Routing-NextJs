@@ -1,0 +1,1 @@
+export {DetailBlogPage as default} from '@/features/blog/pages/detail-blog-page';

@@ -1,0 +1,1 @@
+export {ContactPage as default} from '@/features/guest/pages/contact-page';

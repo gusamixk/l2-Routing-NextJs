@@ -1,0 +1,1 @@
+export {EditStorePage as default} from '@/features/store/pages/edit-store-page';

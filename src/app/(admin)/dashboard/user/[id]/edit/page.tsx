@@ -1,0 +1,1 @@
+export {EditUserPage as default} from '@/features/user/pages/edit-user-page';

@@ -1,0 +1,1 @@
+export {DetailStorePage as default} from '@/features/store/pages/detail-store-page';

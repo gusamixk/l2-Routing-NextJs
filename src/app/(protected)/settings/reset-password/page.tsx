@@ -1,0 +1,1 @@
+export {SettingsResetPage as default} from '@/features/reset/setting-reset';

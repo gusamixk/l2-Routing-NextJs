@@ -1,0 +1,1 @@
+export {DetailPostPage as default} from '@/features/post/pages/detail-post-page';

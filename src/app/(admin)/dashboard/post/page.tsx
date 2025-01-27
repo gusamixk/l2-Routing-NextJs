@@ -1,0 +1,1 @@
+export {PostPage as default} from '@/features/post/pages/post-page';

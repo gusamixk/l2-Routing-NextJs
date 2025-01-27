@@ -1,0 +1,1 @@
+export {EditPostPage as default} from '@/features/post/pages/edit-customer-page';
